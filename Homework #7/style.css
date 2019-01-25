@@ -1,0 +1,18 @@
+.rectangle{
+    margin-top: 10px;
+    height: 25px;
+    width: 100%;
+    padding: 50px;
+    padding-bottom: 0px;
+    position: relative;
+}
+
+.rectangle p {
+    position: absolute;
+    top:15px;
+}
+
+#rectangleWrapper{
+    width: 100px;
+}
+
